@@ -1,0 +1,11 @@
+{
+    "projectName": "@h4rdc0m/node-twig",
+    "projectOwner": "h4rdc0m",
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 100,
+    "commit": true,
+    "contributors": [],
+    "repoType": "github",
+}

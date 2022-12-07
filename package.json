@@ -1,0 +1,25 @@
+{
+  "name": "@h4rdc0m/node-twig",
+  "version": "1.0.0",
+  "description": "NodeJS Twig like template engine",
+  "main": "dist/node-twig.umd.js",
+  "module": "dist/node-twig.esm.js",
+  "typings": "dist/node-twig.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Christiaan Benedictus",
+    "email": "chris@combat.nl"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "typescript": "^4.9.3"
+  }
+}

@@ -41,6 +41,7 @@
     "type:dts": "tsc --emitDeclarationOnly",
     "type:check": "tsc --noEmit",
     "format": "prettier --write \"./src/**/*.{ts,tsx}\"",
+    "format:check": "prettier \"src/**/*.ts\" --check",
     "lint": "eslint src --ext .ts -- fix",
     "lint:check": "eslint src --ext .ts",
     "test": "vitest run",

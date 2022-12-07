@@ -35,3 +35,6 @@ jobs:
 
       - name: Spell check
         run: npm run spell:check
+
+      - name: Test
+        run: npm run test

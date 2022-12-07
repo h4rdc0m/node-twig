@@ -36,8 +36,5 @@ jobs:
       - name: Spell check
         run: npm run spell:check
 
-      - name: Test
-        run: npm run test
-
       - name: Setup test
         run: npm run test:setup

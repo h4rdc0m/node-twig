@@ -11,10 +11,10 @@ Aims to be a full-featured Twig implementation for Node.js.
 - [ ] Add support for imports
 - [ ] Add support for inheritance
 - [ ] Add support for blocks
-- [ ] Add support for autoescaping
+- [ ] Add support for auto-escaping
 - [ ] Add support for comments
 - [ ] Add support for whitespace control
-- [ ] Add support for sandboxing
+- [ ] Add support for sand-boxing
 - [ ] Add support for escaping
 - [ ] Add support for custom tags
 - [ ] Add support for custom filters
